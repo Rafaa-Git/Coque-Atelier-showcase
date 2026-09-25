@@ -4,7 +4,7 @@ Site e-commerce complet développé sous WordPress/WooCommerce, dans le cadre de
 
 ## 🌐 Aperçu
 
-<img src="CoqueAtelierHome.jpg" width="400">
+<img src="CoqueAtelierHome.png" width="400">
 
 ## 🧩 Le projet
 
